@@ -8,3 +8,9 @@ The Orchestra는 다양한 네트워크 모듈(요청, 응답, 패킷 분석 등
 - Smart Handle
 - Parallel Processing
 - Plugin & Extension
+
+### 기술 스택
+
+- Python, cpp
+- Django
+- PostgreSQL, Redis
